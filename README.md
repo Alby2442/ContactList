@@ -5,6 +5,13 @@ A responsive Android Contact List application developed using **Kotlin** and **A
 The application demonstrates RecyclerView, custom adapters, contact search and filtering, fast scrolling, runtime contact permissions, device contact access, contact details, and phone dialing.
 
 ---
+## 📥 Download APK
+
+Download and install the latest release:
+
+👉 [Download ContactList v1.0.0](https://github.com/Alby2442/ContactList/releases/tag/v1.0.0)
+
+> Note: Android may ask you to allow installation from unknown sources when installing the APK.
 
 ## ✨ Features
 
